@@ -13,8 +13,8 @@ Run the commands to create in cmd prompt
 This guide will show how to set up, build, and run a Flask + Streamlit project, including all necessary commands and the correct project structure.
 
 step 1:
-mkdir ScorecardProject
-cd ScorecardProject
+mkdir ScoreCard_Assignment
+cd ScoreCard_Assignment
 
 Step 2: Create a Virtual Environment
 To ensure package management is clean, create and activate a virtual environment:
