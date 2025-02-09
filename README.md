@@ -1,14 +1,18 @@
 # ScoreCard
 Developed a Dynamic Scorecard Tool for Performance Evaluation using Streamlit and Flask
 
+project structure
 📂 scorecard_project
 │── 📂 venv/             # Virtual Environment (auto-created)
 │── 📂 uploads/          # Folder for uploaded Excel/CSV files
 │── 📜 app.py            # Flask Backend (API)
 │── 📜 dashboard.py      # Streamlit Frontend
 │── 📜 requirements.txt  # Dependencies (optional)
+
 Run the commands to create in cmd prompt
 This guide will show how to set up, build, and run a Flask + Streamlit project, including all necessary commands and the correct project structure.
+
+step 1:
 mkdir ScorecardProject
 cd ScorecardProject
 
